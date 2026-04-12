@@ -1,6 +1,6 @@
-# LangChain Blog Project
+# LangChain Blog 
 
-This project is part of my LangChain assignment where I explored how to build AI applications using LangChain.
+This blog is part of my LangChain assignment where I explored how to build AI applications using LangChain.
 
 ---
 
