@@ -35,22 +35,6 @@ Resume → Skill Extraction → Matching → Scoring → Explanation → Tracing
 
 ---
 
-## 📂 Project Structure
-
-```
-AI-Resume-Screening/
-│
-├── main.ipynb
-├── Screenshots/
-│   ├── tracing.png
-│   ├── output.png
-│   └── error.png
-├── README.md
-├── requirements.txt
-```
-
----
-
 ## 🔍 Features
 
 ### 1️⃣ Skill Extraction
@@ -167,21 +151,7 @@ An intentionally weak/incorrect resume is used to test system robustness and deb
 
 ---
 
-## ⚠️ Important Notes
 
-* ❌ No hardcoded outputs
-* ❌ No hallucinated skills
-* ✅ Fully modular pipeline
-* ✅ Explainable results included
-
----
-
-## 🔗 Submission
-
-* GitHub Repository Link
-* LinkedIn Post Link
-
----
 
 ## 👩‍💻 Author
 
